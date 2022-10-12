@@ -27,4 +27,7 @@ Nope, never. I don't like that, it will have CLI based interface (GUI is overrat
 As I mentioned, it is a hobby project of mine, so I never expect it to be complete, I just want to work on it in peace and hopefully someone can use my program and go _wow_.
 
 - How can I contribute?<br>
-Welcome, this is my first large scale project so IDK you tell me.<br> I will be updating the issues and other stuff as I get time, but if you can think if any enhancement or can solve some problem, go ahead.
+Welcome, this is my first large scale project so IDK you tell me.<br> I will be updating the issues and other stuff as I get time, but if you can think of any enhancement or can solve some problem, go ahead.
+
+- Why the name alan?<br>
+Well it is my way of paying homage to the brilliant scientist __Alan Turing__ who made the Turing machine and jumpstarted the era of AI.
